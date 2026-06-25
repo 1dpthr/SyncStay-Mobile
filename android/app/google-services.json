@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211600892795",
+    "project_id": "madpbl-ef1dd",
+    "storage_bucket": "madpbl-ef1dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211600892795:android:c975b7885feb4be66e13de",
+        "android_client_info": {
+          "package_name": "com.example.pbl_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdMybpzO4Dtyaq1IIhsX0-bpO6QPvkEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
